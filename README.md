@@ -6,7 +6,7 @@ An innovative platform designed to empower women by providing personalized legal
 ## About the Project  
 **Sashakt Saathi** is a digital platform developed to empower women facing abuse by:  
 - Offering **personalized legal information** based on individual circumstances.  
-- Providing **targeted legal assistance** through the use of machine learning algorithms.  
+- Providing **targeted legal assistance** to victims suffered from specific type of violence 
 - Focusing on four types of abuse: **Physical**, **Sexual**, **Emotional**, and **Financial**.  
 - Enhancing legal literacy, safety, and empowerment among women.  
 
